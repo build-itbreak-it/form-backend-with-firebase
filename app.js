@@ -1,12 +1,12 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyCNnd4FAl7ee7XgR1ODgdnA7FXEE4dtzPQ",
+    apiKey: "AIzaSyCNnd4FAl7ee7XgR1ODgdnA7FXEE4dtzPQ",  //your apikey and sdk here!
     authDomain: "form-firebase-35e42.firebaseapp.com",
     projectId: "form-firebase-35e42",
     storageBucket: "form-firebase-35e42.appspot.com",
     messagingSenderId: "723421131315",
     appId: "1:723421131315:web:b96cc0e1fc5bd4ac78a946",
 
-  };
+  }; //insert your firebaseconfig here
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
